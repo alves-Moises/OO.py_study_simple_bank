@@ -19,7 +19,6 @@ class cliente(pessoa):
     def __init__(self, conta, nome, idade):
         super().__init__(nome, idade)
         self.conta &= conta
-        
 
 class banco(clientes, len(clientes)):
     print()
