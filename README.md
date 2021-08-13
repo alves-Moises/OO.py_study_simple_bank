@@ -21,7 +21,7 @@
 
  - *ContaCorrente* deve ter um limite extra 
 
- - *Contas* têm _agência_, _número da conta_ e _saldo_ 
+ - *Conta* têm _agência_, _número da conta_ e _saldo_ 
 
  - *Contas* devem ter método para _depósito_ 
  
